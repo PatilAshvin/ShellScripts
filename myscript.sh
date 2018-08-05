@@ -1,1 +1,1 @@
-echo  "learning GIT"
+echo  "learning GIT test"
